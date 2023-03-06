@@ -4,3 +4,6 @@
 首先翻译中国相关的文章, 然后有时间再翻译其他的文章, 每一期一个文件夹
 
 杂志原文来源:https://github.com/hehonghui/awesome-english-ebooks 
+
+在目录下以bilingual结尾的是翻译好的中英文双语对照版书籍，如TheEconomist_bilingual.epub
+正本的翻译使用的工具是一个chatgpt api工具 https://github.com/yihong0618/bilingual_book_maker
