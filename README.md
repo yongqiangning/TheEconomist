@@ -7,4 +7,5 @@
 
 在目录下以bilingual结尾的是翻译好的中英文双语对照版书籍，如TheEconomist_bilingual.epub
 正本的翻译使用的工具是一个chatgpt api工具 https://github.com/yihong0618/bilingual_book_maker
+
 命令： python3 make_book.py --book_name test_books/TheEconomist.2023.02.11.epub  --no_limit --language "Simplified Chinese"
