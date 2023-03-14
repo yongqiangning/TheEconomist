@@ -10,5 +10,7 @@
 
 命令： python3 make_book.py --book_name test_books/TheEconomist.2023.02.11.epub  --no_limit --language "Simplified Chinese"
 
-TheEconomist.2023.02.18.epub是使用[hatgpt api工具](https://github.com/yihong0618/bilingual_book_maker)的彩云小译api接口翻译的, 使用彩云小译接口速度快很多,几分钟翻译一本书
+TheEconomist.2023.02.18.epub是使用[chatgpt api工具](https://github.com/yihong0618/bilingual_book_maker)的彩云小译api接口翻译的, 使用彩云小译接口速度快很多,几分钟翻译一本书
+
+命令:python3 make_book.py --book_name test_books/TheEconomist.2023.02.18.epub  --model caiyun
 
